@@ -1,4 +1,13 @@
 
+# Script Name   : backup.py
+# Author        : Hans Peter Wurst
+# Created       : 2020-07-04
+# Last Modified	: 2020-10-27
+# Version       : 1.0.2
+
+# Modifications : googledrive
+
+# Description   : This script will backup files.
 
 from path import path # available from http://tompaton.com/resources/path.py
 import hashlib, re, sys, string
