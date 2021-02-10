@@ -5,7 +5,7 @@
 # Last Modified	: 2020-10-27
 # Version       : 1.0.2
 
-# Modifications : googledrive
+# Modifications : https://cutt.ly/8kYudJv
 
 # Description   : This script will backup files.
 
